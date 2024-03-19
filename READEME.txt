@@ -1,4 +1,5 @@
 it's a sunny day
 The sun shines brightly
 It's the first file i edit
+wow, it's the second time i open this file
 
